@@ -73,40 +73,6 @@ UCI-HAR:
 | 4, 19, 22, 26, 27, 30 | rest | 96.61|
 | 7, 8, 11, 15, 20, 21| rest | 96.45|
 
-## Experiment
-
-Results of different divisions in self-supervised experiments.
-
-MotionSense:
-
-| Test subjects  | Train/Val subjects  | F1-score|
-|  :----:  | :----:  |:----:  |
-| 1 - 5  | rest | 95.16|
-| 6 - 10  | rest | 90.29|
-| 11 - 15  | rest | 86.76|
-| 16 - 19  | rest | 89.13|
-| 20 - 24  | rest | 90.95|
-| 1, 9,12, 17, 19| rest | 88.99|
-| 2, 6, 10, 14, 22 | rest | 90.23|
-| 3, 4, 5, 13, 16 | rest | 94.26|
-| 8, 18, 21, 23, 24 | rest | 87.28|
-| 11, 15, 20, 7| rest | 93.98|
-
-UCI-HAR:
-
-| Test subjects  | Train/Val subjects  | F1-score|
-|  :----:  | :----:  |:----:  |
-| 1 - 6  | rest | 94.00|
-| 7 - 12  | rest | 89.59|
-| 13 - 18  | rest |89.25|
-| 19 - 24  | rest | 97.95|
-| 25 - 30  | rest | 93.00|
-| 9, 10, 16, 18, 24, 28| rest | 83.73|
-| 1, 5, 13, 17, 25, 29 | rest | 95.33|
-| 2, 3, 6, 12, 14, 23 | rest | 91.05|
-| 4, 19, 22, 26, 27, 30 | rest | 96.61|
-| 7, 8, 11, 15, 20, 21| rest | 96.45|
-
 ## Citation
 
 If you find our paper useful or use the code available in this repository in your research, please consider citing our work:
