@@ -13,6 +13,7 @@ def resample(x,M,N):
     start = random.randint(0, length_inserted - timesteps * (N + 1))
     index_selected = np.arange(start, start + timesteps * (N + 1), N + 1)
     return InterpVal[:, index_selected, :]
+
 def resample_random(x):
     M,N = random.choice([[1,0],[2,1],[3,2]])
     timesetps = x.shape[1]

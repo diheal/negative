@@ -19,7 +19,7 @@ The main third-party libraries used and the corresponding versions are as follow
 
 + scikit-learn 0.23.1
 
-
++ sklearnex 
   
 
 ## Running
