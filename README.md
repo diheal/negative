@@ -1,6 +1,6 @@
 # Negative Selection by Clustering for Contrastive Learning in Human Activity Recognition
 This repository is designed to implement the idea of "Negative Selection by Clustering for Contrastive Learning in Human Activity Recognition" in this paper.
-For more details, please see https://arxiv.org/abs/2203.12230
+For more details, please see https://arxiv.org/abs/2203.12230 or https://ieeexplore.ieee.org/document/10026419
 ## Requirements
 
 This project code is done in Python 3.8 and third party libraries. 
@@ -78,11 +78,15 @@ UCI-HAR:
 If you find our paper useful or use the code available in this repository in your research, please consider citing our work:
 
 ```
-@article{wang2022negative,
-  title={Negative Selection by Clustering for Contrastive Learning in Human Activity Recognition},
-  author={Wang, Jinqiang and Zhu, Tao and Chen, Liming and Ning, Huansheng and Wan, Yaping},
-  journal={arXiv preprint arXiv:2203.12230},
-  year={2022}
+@ARTICLE{10026419,
+  author={Wang, Jinqiang and Zhu, Tao and Chen, Liming Luke and Ning, Huansheng and Wan, Yaping},
+  journal={IEEE Internet of Things Journal}, 
+  title={Negative Selection by Clustering for Contrastive Learning in Human Activity Recognition}, 
+  year={2023},
+  volume={10},
+  number={12},
+  pages={10833-10844},
+  doi={10.1109/JIOT.2023.3239945}
 }
 ```
 
